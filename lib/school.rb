@@ -26,6 +26,5 @@ class School
       @roster[i].sort
       i++
     end
-  end
   @roster
 end
