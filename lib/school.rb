@@ -27,4 +27,5 @@ class School
       i++
     end
   @roster
+  end
 end
