@@ -21,6 +21,8 @@ class School
   end
     
   def sort
+    i=0
+    while i<@roster.length
     @roster.sort
   end
   
